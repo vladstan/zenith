@@ -1,4 +1,4 @@
-# Zenith - Portfolio Manager
+# Zenith - CLI Portfolio Manager 
 
 This is probably the first portfolio manager developed for CLI. It is a portfolio manager with a twist because it is designed to have 1 reference coin (default and recommended in BTC), and track separately the accounts(cash) and the investment, trades in the coins. Of course, you can have multiple portfolios and everything is encrypted and stored only on your computer.
 
